@@ -14,7 +14,8 @@ tips for mongodb users bson, json, mongolite, jsonlite, etc.
 `mongorestore -d db_name -c collection_name /path/file.bson` 
 
 for example input/output:
-```C:\Program Files\MongoDB\Server\4.2\bin>mongorestore -d bank4 -c bank4 station_1.bson
+```
+C:\Program Files\MongoDB\Server\4.2\bin>mongorestore -d bank4 -c bank4 station_1.bson
 2020-02-23T15:37:09.885+0700    checking for collection data in station_1.bson
 2020-02-23T15:37:09.888+0700    restoring to existing collection bank4.bank4 without dropping
 2020-02-23T15:37:09.888+0700    restoring bank4.bank4 from station_1.bson
