@@ -1,7 +1,7 @@
 # mongodb
 tips for mongodb users bson, json, mongolite, jsonlite, etc.
 
-#steps for converting bson->mongodb
+#steps for converting bson to json using mongodb
 1. Put .bson file in a folder you have access to.
 2. Install Mongodb with Compass Software
 3. Open Mongodb Compass Software
